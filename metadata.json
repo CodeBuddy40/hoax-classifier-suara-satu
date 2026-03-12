@@ -1,0 +1,5 @@
+{
+  "name": "Hoax Classifier Suara Satu Bojonegoro",
+  "description": "Aplikasi klasifikasi berita hoax menggunakan algoritma Naive Bayes untuk Media Suara Satu Bojonegoro.",
+  "requestFramePermissions": []
+}
